@@ -1,5 +1,7 @@
 ## Hi there 👋
----
+
+「おはなしするとハッピーだっピ」 🐙
+
 "live and let live"
 
 <!--
